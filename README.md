@@ -1,2 +1,2 @@
 # GitPractice
-Git Practice Session 
+This is a Git Practice Session 
